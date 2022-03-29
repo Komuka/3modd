@@ -1,0 +1,652 @@
+body{
+  background-color: #3E324D;
+  background-image: url('../img/fon.svg');
+  background-repeat: no-repeat;
+}
+
+.container{
+display: grid;
+grid-template-columns: 55% 40% 5%;
+grid-template-rows: 10% 44% 9.23% 28% 10%;
+gap: 0px 0px;
+grid-auto-flow: row;
+grid-template-areas:
+"first third fifth"
+"first third fifth"
+"second third fifth"
+"second fourth fifth"
+"sixth sixth seventh";
+}
+.first,.second,.third,.fourth,.fifth,.sixth,.seventh {
+border: 5px solid #FFFFFF;
+position: relative;
+overflow: hidden;
+}
+
+#hidee img, #hidde img, #hiide img{
+  width: 100%;
+  padding-left: 680%;
+  padding-top: 30%;
+}
+
+.hide-off{
+  display: none;
+}
+
+#hide, #hide2, #hide3 {
+  display: none;
+  position: absolute;
+  z-index: 2;
+}
+
+#hidee, #hidde, #hiide {
+  display: none;
+  position: absolute;
+  z-index: 2;
+  cursor: pointer;
+}
+.first {
+grid-area: first;
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+
+
+.one {
+  display: block;
+}
+
+.oneon{
+  display: none;
+}
+
+.second {
+grid-area: second;
+border-bottom-style: none;
+border-left-style: none;
+}
+.third {
+grid-area: third;
+border-left-style: none;
+border-bottom-style: none;
+border-right-style: none;
+border-top-style: none;
+}
+.fourth {
+grid-area: fourth;
+border-left-style: none;
+border-bottom-style: none;
+border-right-style: none;
+}
+.fifth {
+grid-area: fifth;
+border-bottom-style: none;
+border-top-style: none;
+border-right-style: none;
+}
+.sixth {
+  display: block;
+grid-area: sixth;
+border-right-style: none;
+border-bottom-style: none;
+border-left-style: none;
+}
+
+.sixth-on {
+  display: none;
+}
+.seventh {
+grid-area: seventh;
+border-bottom-style: none;
+border-right-style: none;
+}
+.seventh img{
+width: 100%;
+margin-left: 1%;
+margin-top: 11%;
+}
+
+.podpis{
+font-family: Raleway;
+color: #FFFFFF;
+font-size: 2vw;
+padding-top: 5%;
+padding-left: 3%;
+}
+.zagolovok{
+font-family: Minsk;
+color: #FFFFFF;
+font-size: 10vw;
+line-height: 195px;
+padding-top: 5%;
+padding-bottom: 2%;
+padding-left: 2.1%;
+animation: pulsate 1.5s linear infinite;
+}
+@keyframes pulsate {
+50% {color: #fff; text-shadow: 0 -1px rgba(0,0,0,.3),
+0 0 15px #ffd, 0 0 20px #fff;}
+}
+
+.podpis2{
+font-family: Raleway;
+color: #FFFFFF;
+font-size: 2vw;
+padding-top: 16%;
+padding-left: 5%;
+line-height: 44px;
+}
+.podpis3{
+font-family: Minsk;
+color: #FFFFFF;
+font-size: 2vw;
+text-shadow: #FFFFFF 0 0 30px;
+transform: rotate(90deg);
+white-space: nowrap;
+word-spacing: 20px;
+margin-top: 293%;
+}
+
+.stak1 img{
+  width: 80%;
+  margin-top: 24%;
+  margin-left: 13%;
+  z-index: 1;
+  position: relative;
+}
+.stak2 img{
+  width: 78%;
+  margin-top: -65%;
+  margin-left: 10%;
+  z-index: 3;
+  position: absolute;
+}
+
+.circle1 img{
+  width: 30%;
+  margin-top: -80%;
+  margin-left: 53%;
+  position: absolute;
+  z-index: 2;
+  animation: circle1 2s infinite ease-out alternate;
+}
+.circle2 img{
+  width: 20%;
+  margin-top: -90%;
+  margin-left: 24%;
+  position: absolute;
+  z-index: 2;
+  animation: circle2 1s infinite ease-out alternate;
+}
+.circle3 img{
+  width: 30%;
+  margin-top: -60%;
+  margin-left: 27%;
+  position: absolute;
+  z-index: 2;
+  animation: circle3 1.5s infinite ease-out alternate;
+}
+@keyframes circle1 {
+0%{margin-top: -80%;}
+100%{margin-top: -90%;}
+}
+@keyframes circle2 {
+0%{margin-top: -85%;}
+100%{margin-top: -90%;}
+}
+@keyframes circle3 {
+0%{margin-top: -60%;}
+100%{margin-top: -70%;}
+}
+a {
+text-decoration:none;
+display: inline-block;
+color:#fff;
+}
+a:after {
+display: block;
+content: "";
+height: 3px;
+width: 0%;
+background-color: #C4C4C4;
+transition: width 0.4s ease-in-out;
+}
+a:hover:after,
+a:focus:after {
+width: 100%;
+}
+a:hover{
+color:#C4C4C4;
+}
+.but4text a:after{
+background-color:#4C3D73;
+}
+.but4text a{
+color:#4C3D73;
+}
+
+.buttoms {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.but1 {
+  width: 100%;
+  padding-top: 2.1%;
+  padding-left: 9%;
+  padding-bottom: 2%;
+  padding-right: 2%;
+  border-right: 5px #FFF solid;
+  overflow: hidden;
+  font-family: Raleway;
+  color: #FFF;
+  font-size: 1.4vw;
+}
+.but2 {
+  width: 100%;
+  padding-top: 2.1%;
+  padding-left: 9%;
+  padding-bottom: 2%;
+  padding-right: 2%;
+  border-right: 5px #FFF solid;
+  overflow: hidden;
+  font-family: Raleway;
+  color: #FFF;
+  font-size: 1.4vw;
+}
+.but3 {
+  width: 100%;
+  padding-top: 2.1%;
+  padding-left: 7%;
+  padding-bottom: 2%;
+  padding-right: 6%;
+  border-right: 5px #FFF solid;
+  overflow: hidden;
+  font-family: Raleway;
+  color: #FFF;
+  font-size: 1.4vw;
+}
+.but4 {
+  width: 100%;
+  padding-top: 2.1%;
+  padding-left: 9%;
+  padding-bottom: 2%;
+  border-right: 5px #FFF solid;
+  z-index: 2;
+  font-family: Raleway;
+  color: #4C3D73;
+  font-size: 1.4vw;
+  background-color: #FFF;
+}
+.but4:hover{
+  box-shadow:20px 20px rgba(0,0,0,.3),
+  0 0 15px #ffd, 0 0 40px #fff;
+}
+.but1text, .but2text,.but3text,.but4text{
+  white-space: nowrap;
+}
+
+.two{
+  display: none;
+}
+
+.twoon{
+  display: block;
+}
+
+.container2 {
+  display: grid;
+  grid-template-columns: 47.4% 23.8% 23.8% 5%;
+  grid-template-rows: 8% 38% 35% 9.3% 10.3%;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+}
+.podpiss {grid-area:1 / 4 / 5 / 5;}
+.logo {grid-area:5 / 4 / 6 / 5;}
+.stakan {grid-area:1 / 1 / 5 / 2;}
+.odin {grid-area:1 / 2 / 3 / 3;}
+.dva {grid-area:1 / 3 / 3 / 4;}
+.tri {grid-area:3 / 2 / 5 / 3;}
+.chetyre {grid-area:3 / 3 / 5 / 4;}
+.pyat {grid-area:5 / 1 / 6 / 2;}
+.nazad {grid-area:5 / 2 / 6 / 3;}
+.vpered {grid-area:5 / 3 / 6 / 4;}
+
+.podpiss,.logo,.stakan,.odin,.dva,.tri,.chetyre,.pyat,.nazad,.vpered{
+border: 5px solid #FFFFFF;
+position: relative;
+overflow: hidden;
+}
+.stakan {
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.odin{
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.dva{
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.tri{
+border-left-style: none;
+border-bottom-style: none;
+}
+.chetyre{
+border-left-style: none;
+border-bottom-style: none;
+border-right-style: none;
+}
+.podpiss{
+border-bottom-style: none;
+border-top-style: none;
+border-right-style: none;
+}
+.logo{
+border-right-style: none;
+border-bottom-style: none;
+}
+.nazad{
+border-left-style: none;
+border-bottom-style: none;
+}
+.vpered{
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.pyat{
+  border-bottom-style: none;
+  border-left-style: none;
+}
+.odin, .dva, .tri, .chetyre{
+  cursor: pointer;
+}
+
+.stak3 img{
+  width: 87%;
+  padding-top: 44%;;
+  margin-left: 7%;
+  z-index: 1;
+  position: relative;
+}
+.stak4 img{
+  width: 85%;
+  margin-top: -60%;
+  margin-left: 4%;
+  z-index: 3;
+  position: absolute;
+}
+.logo img{
+width: 100%;
+margin-left: 1%;
+padding-top: 12%;
+}
+.pyatpod p{
+  font-family: Raleway;
+  color: #FFFFFF;
+  font-size: 2.5vw;
+  padding-top: 3.3%;
+  padding-left: 3%;
+}
+.nazad p, .vpered p{
+  font-family: Raleway;
+  color: #FFFFFF;
+  font-size: 1.7vw;
+  padding-top: 9%;
+  padding-left: 48%;
+}
+.nazad p{
+  text-shadow: 0 -1px rgba(0,0,0,.3),
+  0 0 6px #ffd, 0 0 10px #fff;
+}
+.vpered p{
+  padding-left: 26%;
+}
+
+.chetyre img{
+  z-index: 2;
+  padding-left: 23%;
+  padding-top: 25%;
+  position: relative;
+}
+.odin img, .dva img{
+  z-index: 2;
+  padding-left: 22%;
+  padding-top: 27%;
+  position: relative;
+}
+.tri img{
+  z-index: 2;
+  padding-left: 21%;
+  padding-top: 23%;
+  position: relative;
+}
+
+.chetyre p{
+  font-family: Raleway;
+  color: #FFFFFF;
+  font-size: 1.7vw;
+  padding-left: 10%;
+  padding-top: 12%;
+  position: absolute;
+}
+.odin p, .dva p{
+  font-family: Raleway;
+  color: #FFFFFF;
+  font-size: 1.7vw;
+  padding-left: 9%;
+  padding-top: 14%;
+  position: absolute;
+}
+.tri p{
+  font-family: Raleway;
+  color: #FFFFFF;
+  font-size: 1.7vw;
+  padding-left: 9%;
+  padding-top: 14%;
+  position: absolute;
+}
+
+.textshadow{
+  text-shadow:#FFFFFF 0 0 10px;
+}
+
+#tecila-on, #balsam-on, #sambuka-on, #sake-on {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  width: 60%;
+  margin-top: -57%;
+  margin-left: 11%;
+}
+
+.odin img:hover, .dva img:hover, .tri img:hover, .chetyre img:hover {
+  transition: transform 0.3s ease;
+  transform: scale(1.1);
+}
+
+/*третья секция*/
+.container3 {
+  display: grid;
+  grid-template-columns: 47.4% 23.8% 23.8% 5%;
+  grid-template-rows: 8% 38% 35% 9.3% 10.3%;
+  gap: 0px 0px;
+  grid-auto-flow: row;
+}
+.podpiss3 {grid-area:1 / 4 / 5 / 5;}
+.logo3 {grid-area:5 / 4 / 6 / 5;}
+.stakan3 {grid-area:1 / 1 / 5 / 2;}
+.odin3 {grid-area:1 / 2 / 3 / 3;}
+.dva3 {grid-area:1 / 3 / 3 / 4;}
+.tri3 {grid-area:3 / 2 / 5 / 3;}
+.chetyre3 {grid-area:3 / 3 / 5 / 4;}
+.pyat3 {grid-area:5 / 1 / 6 / 2;}
+.nazad3 {grid-area:5 / 2 / 6 / 3;}
+.vpered3 {grid-area:5 / 3 / 6 / 4;}
+
+.podpiss3,.logo3,.stakan3,.odin3,.dva3,.tri3,.chetyre3,.pyat3,.nazad3,.vpered3{
+border: 5px solid #FFFFFF;
+position: relative;
+overflow: hidden;
+overflow-y: hidden;
+}
+.stakan3 {
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+margin-bottom: 0;
+}
+.odin3{
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.dva3{
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.tri3{
+border-left-style: none;
+border-bottom-style: none;
+}
+.chetyre3{
+border-left-style: none;
+border-bottom-style: none;
+border-right-style: none;
+}
+.podpiss3{
+border-bottom-style: none;
+border-top-style: none;
+border-right-style: none;
+}
+.logo3{
+border-right-style: none;
+border-bottom-style: none;
+}
+.nazad3{
+border-left-style: none;
+border-bottom-style: none;
+}
+.vpered3{
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.pyat3{
+  border-bottom-style: none;
+  border-left-style: none;
+}
+.odin3, .dva3, .tri3, .chetyre3{
+  cursor: pointer;
+}
+
+.stak3 img{
+  width: 87%;
+  padding-top: 44%;;
+  margin-left: 7%;
+  z-index: 1;
+  position: relative;
+}
+.stak4 img{
+  width: 85%;
+  margin-top: -60%;
+  margin-left: 4%;
+  z-index: 3;
+  position: absolute;
+}
+.logo3 img{
+width: 100%;
+margin-left: 1%;
+padding-top: 12%;
+}
+.pyatpod3 p{
+  font-family: Raleway;
+  color: #FFFFFF;
+  font-size: 2.5vw;
+  padding-top: 3.3%;
+  padding-left: 3%;
+}
+.nazad3 p, .vpered3 p{
+  font-family: Raleway;
+  color: #FFFFFF;
+  font-size: 1.7vw;
+  padding-top: 9%;
+  padding-left: 48%;
+}
+.nazad3 p{
+  text-shadow: 0 -1px rgba(0,0,0,.3),
+  0 0 6px #ffd, 0 0 10px #fff;
+}
+.vpered3 p{
+  padding-left: 26%;
+}
+
+.chetyre3 img{
+  width: 97%;
+  z-index: 2;
+  margin-top: 10%;
+  margin-left: 2%;
+  position: absolute;
+}
+.odin3 img, .dva3 img{
+  width: 70%;
+  z-index: 2;
+  margin-top: 9%;
+  margin-left: 10%;
+  position: absolute;
+}
+.odin3 img{
+  margin-left: 17%;
+  width: 83%;
+}
+.dva3 img{
+  margin-top: 13%;
+  width: 85%;
+}
+.tri3 img{
+  width: 70%;
+  z-index: 2;
+  margin-top: 8%;
+  margin-left: 18%;
+  position: absolute;
+}
+
+.odin3 img:hover, .dva3 img:hover, .tri3 img:hover, .chetyre3 img:hover {
+  transition: transform 0.3s ease;
+  transform: scale(1.1);
+}
+
+#trubochka1-on, #trubochka2-on, #trubochka3-on, #trubochka4-on{
+  display: none;
+  position: absolute;
+  z-index: 1;
+  margin-top: -100%;
+  margin-left: 23%;
+}
+#trubochka1-on{
+  margin-top: -100%;
+  margin-left: 23%;
+}
+#trubochka2-on{
+  margin-left: 16%;
+}
+#trubochka4-on{
+  margin-left: 10%;
+  margin-top: -95%;
+}
+
+.three {
+  display: none;
+}
+.threeon {
+  display: block;
+}
