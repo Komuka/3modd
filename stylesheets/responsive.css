@@ -1,0 +1,321 @@
+@media only screen and (min-device-width: 1439px) and (max-device-width: 1920px) {
+.forma {height: 120px;}
+}
+
+@media only screen and (min-device-width: 1367px) and (max-device-width: 1440px) {
+
+.zagolovok{line-height: 170px; font-size: 10.7vw;padding-top: 4%;}
+.podpis{index: 2; padding-top: 9%;}
+.podpis3{margin-top: 330%;}
+.stak1 img{margin-top: 33%;}
+#rotateimg{margin-left: 3%; margin-top: 3%;}
+#rotateimg, #rotateimg3{width: 28%;margin-top: 3%;}
+#rotateimg2{width: 40%;margin-top: 3%;}
+.container {grid-template-rows: 16% 39% 9.2% 28% 9%}
+.hidee, .hidde,.hiide {padding-left: 26%; padding-top: 6%;}
+#hide img, #hide2 img, #hide3 img{width: 83%;}
+
+.container2 {grid-template-rows: 10% 36% 35% 10% 9.7%;}
+.stak3 img{padding-top: 57%;}
+.chetyre img{width: 60%; padding-left: 23%;padding-top: 25%;}
+.odin img, .dva img{width: 60%; padding-left: 22%;padding-top: 27%;}
+.tri img{width: 60%; padding-left: 21%;padding-top: 23%;}
+.chetyre p{padding-top: 16%;}
+.odin p, .dva p, .tri p{padding-top: 19%;}
+.dva p {padding-top: 18%;}
+#tecila-on, #balsam-on, #sambuka-on, #sake-on {margin-top: 29%;margin-left: 4%;}
+#tecila-on img, #balsam-on img, #sambuka-on img, #sake-on img {width: 60%;}
+
+.container3 {grid-template-rows: 8% 38% 35% 10% 9.8%;}
+.odin3 img {margin-left: 12%; width: 92%;}
+.tri3 img{ margin-top: 12%;}
+.chetyre3 img{ margin-top: 19%;}
+#trubochka1-on{margin-top: 5%;}
+#trubochka2-on{margin-left: 6%;margin-top: 6%;}
+#trubochka3-on{margin-left: 10%;margin-top: 4%;}
+#trubochka4-on{margin-left: 3%;margin-top: 7%;}
+#trubochka1-on img, #trubochka2-on img, #trubochka3-on img,
+#trubochka4-on img {width: 80%;}
+
+.container4 {grid-template-rows: 10% 38.7% 15.2% 26.7% 9.6%;}
+.forma {height: 90px;}
+
+.container5 {grid-template-rows: 10% 2% 52% 27% 9.5%;}
+.Stak3 img{padding-top: 57%;}
+.itogtext {margin-top: 43%;}
+}
+
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1366px) {
+
+body{background-size: 1366px 768px;}
+
+.container {grid-template-rows: 18% 35% 9% 28.3% 10%;}
+.zagolovok{line-height: 140px; font-size: 10vw;}
+.podpis2 {line-height: 32px;padding-top: 16%;}
+#rotateimg{margin-left: 3%; margin-top: 3%;}
+#rotateimg, #rotateimg3{width: 25%;margin-top: 3%;}
+#rotateimg2{width: 35%;margin-top: 3%;}
+#hide img, #hide2 img, #hide3 img{width: 70.8%;}
+.hidee, .hidde,.hiide{background-image: url('../img/krestic3.svg');}
+.hidee:hover, .hidde:hover, .hiide:hover{background-image: url('../img/krestic4.svg');}
+
+.chetyre img{width: 53%; padding-left: 23%;padding-top: 25%;}
+.odin img, .dva img{width: 53%; padding-left: 22%;padding-top: 27%;}
+.tri img{width: 53%; padding-left: 21%;padding-top: 23%;}
+.chetyre p{padding-top: 10%;}
+.odin p, .tri p{padding-top: 13%;}
+.dva p {padding-top: 12%;}
+#tecila-on, #balsam-on, #sambuka-on, #sake-on {margin-top: 23%;margin-left: 6%;}
+#tecila-on img, #balsam-on img, #sambuka-on img, #sake-on img {width: 56%;}
+
+#trubochka1-on{margin-top: 2%;}
+#trubochka2-on{margin-left: 6%;margin-top: 3%;}
+#trubochka3-on{margin-left: 11%;margin-top: 3%;}
+#trubochka4-on{margin-left: 3%;margin-top: 5%;}
+#trubochka1-on img, #trubochka2-on img, #trubochka3-on img,
+#trubochka4-on img {width: 72%;}
+
+.container4 {grid-template-rows: 10% 38% 15.2% 26.7% 10%;}
+.forma {height: 85px;}
+}
+
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+.container {grid-template-rows:16% 27% 13.5% 39% 8%;}
+.zagolovok{line-height: 110px; padding-top: 5%;font-size: 10.7vw;}
+.podpis{index: 2; padding-top: 6%;}
+.podpis2 {line-height: 26px;margin-top: 30%;}
+.podpis3{word-spacing: 13px;margin-top: 465%;}
+.third{padding-top: 10%;}
+#hide img, #hide2 img, #hide3 img{width: 70.8%;}
+.hidee, .hidde,.hiide{background-image: url('../img/krestic3.svg');}
+.hidee:hover, .hidde:hover, .hiide:hover{background-image: url('../img/krestic4.svg');}
+.hidee, .hidde,.hiide {padding-left: 32%; padding-top: 7%;}
+.first,.second,.third,.fourth,.fifth,.sixth,.seventh, .podpiss,.logo,.stakan,.odin,.dva,.tri,.chetyre,.pyat,.nazad,.vpered
+{border: 2px solid #FFFFFF;}
+.first {
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.second {
+border-bottom-style: none;
+border-left-style: none;
+}
+.third {
+border-left-style: none;
+border-bottom-style: none;
+border-right-style: none;
+border-top-style: none;
+}
+.fourth {
+border-left-style: none;
+border-bottom-style: none;
+border-right-style: none;
+}
+.fifth {
+border-bottom-style: none;
+border-top-style: none;
+border-right-style: none;
+}
+.sixth {
+border-right-style: none;
+border-bottom-style: none;
+border-left-style: none;
+}
+.seventh {
+border-bottom-style: none;
+border-right-style: none;
+}
+.but1, .but2, .but3, .but4 {border-right: 2px #FFF solid;}
+.stakan {
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.odin{
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.dva{
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.tri{
+border-left-style: none;
+border-bottom-style: none;
+}
+.chetyre{
+border-left-style: none;
+border-bottom-style: none;
+border-right-style: none;
+}
+.podpiss{
+border-bottom-style: none;
+border-top-style: none;
+border-right-style: none;
+}
+.logo{
+border-right-style: none;
+border-bottom-style: none;
+}
+.nazad{
+border-left-style: none;
+border-bottom-style: none;
+}
+.vpered{
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.pyat{
+  border-bottom-style: none;
+  border-left-style: none;
+}
+.container2 {grid-template-rows: 10.8% 37% 35% 10% 7.5%;}
+.stak3 img{width: 87%;margin-top: 39%;margin-left: 7%;}
+.stak4 img{width: 85%;margin-top: -60%;margin-left: 4%;}
+.odin img, .dva img{width: 70%; padding-left: 15%;padding-top: 35%;}
+.tri img{width: 70%; padding-left: 14%;padding-top: 34%;}
+.chetyre img{width: 70%; padding-left: 15%;padding-top: 33%;}
+.odin p{padding-top: 30%;}
+.dva p {padding-top: 29%;}
+.chetyre p{padding-top: 20%;}
+.tri p {padding-top: 20%;}
+#tecila-on, #balsam-on, #sambuka-on, #sake-on {margin-top: 41%;margin-left: 4%;}
+#tecila-on img, #balsam-on img, #sambuka-on img, #sake-on img {width: 60%;}
+
+.podpiss3,.logo3,.stakan3,.odin3,.dva3,.tri3,.chetyre3,.pyat3,.nazad3,.vpered3{
+border: 2px solid #FFFFFF;}
+.stakan3 {
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+margin-bottom: 0;
+}
+.odin3{
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.dva3{
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.tri3{
+border-left-style: none;
+border-bottom-style: none;
+}
+.chetyre3{
+border-left-style: none;
+border-bottom-style: none;
+border-right-style: none;
+}
+.podpiss3{
+border-bottom-style: none;
+border-top-style: none;
+border-right-style: none;
+}
+.logo3{
+border-right-style: none;
+border-bottom-style: none;
+}
+.nazad3{
+border-left-style: none;
+border-bottom-style: none;
+}
+.vpered3{
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.pyat3{
+border-bottom-style: none;
+border-left-style: none;
+}
+.container3 {grid-template-rows: 10.8% 37% 35% 10% 7.5%;}
+.chetyre3 img{margin-top: 43%;}
+.odin3 img, .dva3 img{margin-top: 50%;}
+.tri3 img{margin-top: 36%;}
+#trubochka1-on{margin-top: 13%;}
+#trubochka2-on{margin-left: 4%;margin-top: 14%;}
+#trubochka3-on{margin-left: 9%;margin-top: 13%;}
+#trubochka4-on{margin-left: 2%;margin-top: 17%;}
+#trubochka1-on img, #trubochka2-on img, #trubochka3-on img,
+#trubochka4-on img {width: 64%;}
+
+.container4 {grid-template-rows:10.8% 37% 35% 10% 7.5%;}
+.podpiss4,.logo4,.stakan4,.obshiy,.pyat4, .nazad4,.vpered4{border: 2px solid #FFFFFF;}
+.stakan4 {
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.podpiss4 {
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+border-top-style: none;
+}
+.obshiy {
+border-bottom-style: none;
+border-left-style: none;
+border-top-style: none;
+}
+.pyat4 {
+border-bottom-style: none;
+border-left-style: none;
+}
+.vpered4 {
+border-bottom-style: none;
+border-left-style: none;
+}
+.nazad4 {
+border-bottom-style: none;
+border-left-style: none;
+}
+.logo4 {
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.forma {height: 65px;margin-left: 21.3%;border: 3px solid #294CFF;}
+.forma:hover{border: 3px solid #01FFF0;}
+
+.container5 {grid-template-rows: 8% 39% 26.3% 19% 8%;}
+.podpiss5,.logo5,.gotov,.itog,.creative, .zanovo,.stakitog{border: 2px solid #FFFFFF;}
+.stakitog {
+border-bottom-style: none;
+border-left-style: none;
+border-top-style: none;
+}
+.gotov {
+border-bottom-style: none;
+border-left-style: none;
+border-top-style: none;
+}
+.itog {
+border-bottom-style: none;
+border-left-style: none;
+}
+.creative {
+border-bottom-style: none;
+border-left-style: none;
+}
+.zanovo {
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.logo5 {
+border-bottom-style: none;
+border-right-style: none;
+}
+.Stak3 img{margin-top:39%;}
+.itogtext {margin-top: 77%;}
+
+}
