@@ -1,0 +1,1134 @@
+@media only screen and (min-device-width: 1439px) and (max-device-width: 1920px) {
+.forma {height: 120px;}
+}
+
+@media only screen and (min-device-width: 1367px) and (max-device-width: 1440px) {
+
+.zagolovok{line-height: 170px; font-size: 10.7vw;padding-top: 4%;}
+.podpis{index: 2; padding-top: 9%;}
+.podpis3{margin-top: 330%;}
+.stak1 img{margin-top: 33%;}
+#rotateimg{margin-left: 3%; margin-top: 3%;}
+#rotateimg, #rotateimg3{width: 28%;margin-top: 3%;}
+#rotateimg2{width: 40%;margin-top: 3%;}
+.container {grid-template-rows: 16% 39% 9.2% 28% 9%}
+.hidee, .hidde,.hiide {padding-left: 26%; padding-top: 6%;}
+#hide img, #hide2 img, #hide3 img{width: 83%;}
+
+.container2 {grid-template-rows: 10% 36% 35% 10% 9.7%;}
+.stak3 img{padding-top: 57%;}
+.chetyre img{width: 60%; padding-left: 23%;padding-top: 25%;}
+.odin img, .dva img{width: 60%; padding-left: 22%;padding-top: 27%;}
+.tri img{width: 60%; padding-left: 21%;padding-top: 23%;}
+.chetyre p{padding-top: 16%;}
+.odin p, .dva p, .tri p{padding-top: 19%;}
+.dva p {padding-top: 18%;}
+#tecila-on, #balsam-on, #sambuka-on, #sake-on {margin-top: 29%;margin-left: 4%;}
+#tecila-on img, #balsam-on img, #sambuka-on img, #sake-on img {width: 60%;}
+
+.container3 {grid-template-rows: 8% 38% 35% 10% 9.8%;}
+.odin3 img {margin-left: 12%; width: 92%;}
+.tri3 img{ margin-top: 12%;}
+.chetyre3 img{ margin-top: 19%;}
+#trubochka1-on{margin-top: 5%;}
+#trubochka2-on{margin-left: 6%;margin-top: 6%;}
+#trubochka3-on{margin-left: 10%;margin-top: 4%;}
+#trubochka4-on{margin-left: 3%;margin-top: 7%;}
+#trubochka1-on img, #trubochka2-on img, #trubochka3-on img,
+#trubochka4-on img {width: 80%;}
+
+.container4 {grid-template-rows: 10% 38.7% 15.2% 26.7% 9.6%;}
+.forma {height: 90px;}
+
+.container5 {grid-template-rows: 10% 2% 52% 27% 9.5%;}
+.Stak3 img{padding-top: 57%;}
+.itogtext {margin-top: 43%;}
+}
+
+@media only screen and (min-device-width: 1025px) and (max-device-width: 1366px) {
+
+
+.container {grid-template-rows: 18% 35% 9% 28.3% 10%;}
+.zagolovok{line-height: 140px; font-size: 10vw;}
+.podpis2 {line-height: 32px;padding-top: 16%;}
+#rotateimg{margin-left: 3%; margin-top: 3%;}
+#rotateimg, #rotateimg3{width: 25%;margin-top: 3%;}
+#rotateimg2{width: 35%;margin-top: 3%;}
+#hide img, #hide2 img, #hide3 img{width: 70.8%;}
+.hidee, .hidde,.hiide{background-image: url('../img/krestic3.svg');}
+.hidee:hover, .hidde:hover, .hiide:hover{background-image: url('../img/krestic4.svg');}
+
+.chetyre img{width: 53%; padding-left: 23%;padding-top: 25%;}
+.odin img, .dva img{width: 53%; padding-left: 22%;padding-top: 27%;}
+.tri img{width: 53%; padding-left: 21%;padding-top: 23%;}
+.chetyre p{padding-top: 10%;}
+.odin p, .tri p{padding-top: 13%;}
+.dva p {padding-top: 12%;}
+#tecila-on, #balsam-on, #sambuka-on, #sake-on {margin-top: 23%;margin-left: 6%;}
+#tecila-on img, #balsam-on img, #sambuka-on img, #sake-on img {width: 56%;}
+
+#trubochka1-on{margin-top: 2%;}
+#trubochka2-on{margin-left: 6%;margin-top: 3%;}
+#trubochka3-on{margin-left: 11%;margin-top: 3%;}
+#trubochka4-on{margin-left: 3%;margin-top: 5%;}
+#trubochka1-on img, #trubochka2-on img, #trubochka3-on img,
+#trubochka4-on img {width: 72%;}
+
+.container4 {grid-template-rows: 10% 38% 15.2% 26.7% 10%;}
+.forma {height: 85px;}
+}
+
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+.container {grid-template-rows:16% 27% 13.5% 39% 8%;}
+.zagolovok{line-height: 110px; padding-top: 5%;font-size: 10.7vw;}
+.podpis{index: 2; padding-top: 6%;}
+.podpis2 {line-height: 26px;margin-top: 30%;}
+.podpis3{word-spacing: 13px;margin-top: 465%;}
+.third{padding-top: 10%;}
+#hide img, #hide2 img, #hide3 img{width: 70.8%;}
+.hidee, .hidde,.hiide{background-image: url('../img/krestic3.svg');}
+.hidee:hover, .hidde:hover, .hiide:hover{background-image: url('../img/krestic4.svg');}
+.hidee, .hidde,.hiide {padding-left: 32%; padding-top: 7%;}
+.first,.second,.third,.fourth,.fifth,.sixth,.seventh, .podpiss,.logo,.stakan,.odin,.dva,.tri,.chetyre,.pyat,.nazad,.vpered
+{border: 2px solid #FFFFFF;}
+.first {
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.second {
+border-bottom-style: none;
+border-left-style: none;
+}
+.third {
+border-left-style: none;
+border-bottom-style: none;
+border-right-style: none;
+border-top-style: none;
+}
+.fourth {
+border-left-style: none;
+border-bottom-style: none;
+border-right-style: none;
+}
+.fifth {
+border-bottom-style: none;
+border-top-style: none;
+border-right-style: none;
+}
+.sixth {
+border-right-style: none;
+border-bottom-style: none;
+border-left-style: none;
+}
+.seventh {
+border-bottom-style: none;
+border-right-style: none;
+}
+.but1, .but2, .but3, .but4 {border-right: 2px #FFF solid;}
+.stakan {
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.odin{
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.dva{
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.tri{
+border-left-style: none;
+border-bottom-style: none;
+}
+.chetyre{
+border-left-style: none;
+border-bottom-style: none;
+border-right-style: none;
+}
+.podpiss{
+border-bottom-style: none;
+border-top-style: none;
+border-right-style: none;
+}
+.logo{
+border-right-style: none;
+border-bottom-style: none;
+}
+.nazad{
+border-left-style: none;
+border-bottom-style: none;
+}
+.vpered{
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.pyat{
+  border-bottom-style: none;
+  border-left-style: none;
+}
+.container2 {grid-template-rows: 10.8% 37% 35% 10% 7.5%;}
+.stak3 img{width: 87%;margin-top: 39%;margin-left: 7%;}
+.stak4 img{width: 85%;margin-top: -60%;margin-left: 4%;}
+.odin img, .dva img{width: 70%; padding-left: 15%;padding-top: 35%;}
+.tri img{width: 70%; padding-left: 14%;padding-top: 34%;}
+.chetyre img{width: 70%; padding-left: 15%;padding-top: 33%;}
+.odin p{padding-top: 30%;}
+.dva p {padding-top: 29%;}
+.chetyre p{padding-top: 20%;}
+.tri p {padding-top: 20%;}
+#tecila-on, #balsam-on, #sambuka-on, #sake-on {margin-top: 41%;margin-left: 4%;}
+#tecila-on img, #balsam-on img, #sambuka-on img, #sake-on img {width: 60%;}
+
+.podpiss3,.logo3,.stakan3,.odin3,.dva3,.tri3,.chetyre3,.pyat3,.nazad3,.vpered3{
+border: 2px solid #FFFFFF;}
+.stakan3 {
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+margin-bottom: 0;
+}
+.odin3{
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.dva3{
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.tri3{
+border-left-style: none;
+border-bottom-style: none;
+}
+.chetyre3{
+border-left-style: none;
+border-bottom-style: none;
+border-right-style: none;
+}
+.podpiss3{
+border-bottom-style: none;
+border-top-style: none;
+border-right-style: none;
+}
+.logo3{
+border-right-style: none;
+border-bottom-style: none;
+}
+.nazad3{
+border-left-style: none;
+border-bottom-style: none;
+}
+.vpered3{
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.pyat3{
+border-bottom-style: none;
+border-left-style: none;
+}
+.container3 {grid-template-rows: 10.8% 37% 35% 10% 7.5%;}
+.chetyre3 img{margin-top: 43%;}
+.odin3 img, .dva3 img{margin-top: 50%;}
+.tri3 img{margin-top: 36%;}
+#trubochka1-on{margin-top: 13%;}
+#trubochka2-on{margin-left: 4%;margin-top: 14%;}
+#trubochka3-on{margin-left: 9%;margin-top: 13%;}
+#trubochka4-on{margin-left: 2%;margin-top: 17%;}
+#trubochka1-on img, #trubochka2-on img, #trubochka3-on img,
+#trubochka4-on img {width: 64%;}
+
+.container4 {grid-template-rows:10.8% 37% 35% 10% 7.5%;}
+.podpiss4,.logo4,.stakan4,.obshiy,.pyat4, .nazad4,.vpered4{border: 2px solid #FFFFFF;}
+.stakan4 {
+border-bottom-style: none;
+border-top-style: none;
+border-left-style: none;
+}
+.podpiss4 {
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+border-top-style: none;
+}
+.obshiy {
+border-bottom-style: none;
+border-left-style: none;
+border-top-style: none;
+}
+.pyat4 {
+border-bottom-style: none;
+border-left-style: none;
+}
+.vpered4 {
+border-bottom-style: none;
+border-left-style: none;
+}
+.nazad4 {
+border-bottom-style: none;
+border-left-style: none;
+}
+.logo4 {
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.forma {height: 65px;margin-left: 21.3%;border: 3px solid #294CFF;}
+.forma:hover{border: 3px solid #01FFF0;}
+
+.container5 {grid-template-rows: 8% 39% 26.3% 19% 8%;}
+.podpiss5,.logo5,.gotov,.itog,.creative, .zanovo,.stakitog{border: 2px solid #FFFFFF;}
+.stakitog {
+border-bottom-style: none;
+border-left-style: none;
+border-top-style: none;
+}
+.gotov {
+border-bottom-style: none;
+border-left-style: none;
+border-top-style: none;
+}
+.itog {
+border-bottom-style: none;
+border-left-style: none;
+}
+.creative {
+border-bottom-style: none;
+border-left-style: none;
+}
+.zanovo {
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.logo5 {
+border-bottom-style: none;
+border-right-style: none;
+}
+.Stak3 img{margin-top:39%;}
+.itogtext {margin-top: 77%;}
+}
+
+@media only screen and (min-device-width: 415px) and (max-device-width: 768px) {
+  .container {
+    display: grid;
+    grid-template-columns: 45% 30% 16.1% 8.9%;
+    grid-template-rows: 29% 30.2% 20% 23.4% 43.6%;
+    gap: 0px 0px;
+    grid-template-areas:
+      "first first first fifth"
+      "third third third fifth"
+      "fourth fourth fourth fifth"
+      "sixth sixth sixth seventh"
+  }
+  .fifth { grid-area: fifth; }
+  .first { grid-area: first; }
+  .third { grid-area: third; }
+  .fourth { grid-area: fourth; }
+  .seventh { grid-area: seventh; }
+  .sixth { grid-area: sixth; }
+  .second{display: none;}
+  .first {grid-area: first;}
+  .first,.third,.fourth,.fifth,.sixth,.seventh {
+  border: 4px solid #FFFFFF;
+  position: relative;
+  overflow: hidden;
+  }
+
+  .third{
+  border-top-style: none;
+  border-bottom-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  }
+  .fourth{
+  border-bottom-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  }
+  .first{
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  }
+  .sixth{
+  border-bottom-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  }
+  .seventh{
+  border-bottom-style: none;
+  border-right-style: none;
+  }
+  .fifth{
+  border-bottom-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  }
+.podpis{font-size: 3.5vw;padding-left: 5%;}
+.zagolovok{line-height: 90px; padding-top: 3%;font-size: 10.7vw;padding-left: 5%;}
+.podpis2{font-size: 3.5vw;line-height:35px;padding-top: 4%;}
+.podpis3{font-size: 3vw; margin-top: 420%;}
+.but1, .but2, .but3, .but4{font-size: 3vw;}
+.but1, .but2, .but3{border-bottom: 4px #FFF solid;}
+.but1text{padding-left: 36%;}
+.but2text{padding-left: 35%;}
+.but3text{padding-left: 30%;}
+.but3text{padding-left: 30%;}
+.but4text{padding-left: 35%;z-index: 1;}
+.buttoms{display: flex; flex-direction:column;}
+.stak1 img{width: 47%;margin-top: 10%;margin-left: 25%;z-index: -2;}
+.stak2 img{width: 44%;margin-top: -37%;margin-left: 23%;z-index: 0;}
+.circle1 img{width: 10%;}
+.circle2 img, .circle3 img, .circle1 img{width: 16%;}
+.circle1 img, .circle3 img, .circle2 img{padding-top: 30%;z-index: -1;}
+.circle3 img{padding-top: 24%;padding-left: 13%;}
+.circle2 img{padding-top: 36%;padding-left: 6%;}
+#hide img, #hide2 img, #hide3 img{width: 88%;z-index: 3;}
+.hidee, .hidde,.hiide {padding-left: 52%; padding-top: 12%;}
+
+.container2 {
+  display: grid;
+  grid-template-columns: 45% 45% 0% 10%;
+  grid-template-rows: 8% 46% 22% 0% 21% 9%;
+  gap: 0px 0px;
+  grid-template-areas:
+    "pyat pyat . podpiss"
+    "stakan stakan . podpiss"
+    "odin dva . podpiss"
+    ". . . podpiss"
+    "tri chetyre . podpiss"
+    "nazad vpered . logo";
+}
+.vpered { grid-area: vpered; }
+.nazad { grid-area: nazad; }
+.logo { grid-area: logo; }
+.podpiss { grid-area: podpiss; }
+.pyat { grid-area: pyat; }
+.odin { grid-area: odin; }
+.tri { grid-area: tri; }
+.dva { grid-area: dva; }
+.chetyre { grid-area: chetyre; }
+.stakan { grid-area: stakan; }
+.vpered,.nazad,.logo,.podpiss,.pyat,.odin, .dva, .tri, .chetyre, .stakan {
+border: 4px solid #FFFFFF;
+position: relative;
+overflow: hidden;}
+.podpiss{
+border-left-style: none;
+border-top-style: none;
+border-right-style: none;
+border-bottom-style: none;
+}
+.pyat{
+border-left-style: none;
+border-top-style: none;
+}
+.stakan{
+border-left-style: none;
+border-top-style: none;
+border-bottom-style: none;
+}
+.odin{
+border-left-style: none;
+border-right-style: none;
+border-bottom-style: none;
+}
+.dva, .tri{
+border-bottom-style: none;
+}
+.tri{
+border-left-style: none;
+border-right-style: none;
+border-bottom-style: none;
+}
+.chetyre{
+border-bottom-style: none;
+}
+.nazad{
+  border-left-style: none;
+  border-bottom-style: none;
+  border-right-style: none;
+}
+.vpered{
+  border-bottom-style: none;
+}
+.logo{
+  border-left-style: none;
+  border-bottom-style: none;
+  border-right-style: none;
+}
+.podpiss{font-size: 3vw; margin-top: 60%;}
+.pyatpod p{font-size:4vw;}
+
+.odin img, .dva img{width: 47%; padding-left: 25%;margin-top: -21%;}
+.tri img{width: 47%; padding-left: 25%;margin-top: -20%;}
+.chetyre img{width: 47%; padding-left: 25%;margin-top: -20%;}
+.odin p{padding-top: 10%;font-size: 4vw;}
+.dva p {padding-top: 12%;font-size: 4vw;}
+.chetyre p{padding-top: 14%;font-size: 4vw;}
+.tri p {padding-top: 12%;font-size: 4vw;}
+.nazad p{padding-left:30% ;font-size: 5vw;}
+.vpered p{padding-left:27% ;font-size: 5vw;}
+
+.stak3 img{width: 60%;padding-top: 20%;margin-left: 19%;}
+.stak4 img{width: 59%;margin-top: -41%;margin-left: 16%;}
+#tecila-on, #balsam-on, #sambuka-on, #sake-on {margin-top: 31%;margin-left: 17%;}
+#tecila-on img, #balsam-on img, #sambuka-on img, #sake-on img {width: 80%; z-index: 1;}
+
+.container3 {
+  display: grid;
+  grid-template-columns: 45% 45% 0% 10%;
+  grid-template-rows: 12% 72% 37% 0% 37% 15%;
+  gap: 0px 0px;
+  grid-template-areas:
+    "pyat3 pyat3 . podpiss3"
+    "stakan3 stakan3 . podpiss3"
+    "odin3 dva3 . podpiss3"
+    ". . . podpiss3"
+    "tri3 chetyre3 . podpiss3"
+    "nazad3 vpered3 . logo3";
+}
+.vpered3 { grid-area: vpered3; }
+.nazad3 { grid-area: nazad3; }
+.logo3 { grid-area: logo3; }
+.podpiss3 { grid-area: podpiss3; }
+.pyat3 { grid-area: pyat3; }
+.odin3 { grid-area: odin3; }
+.tri3 { grid-area: tri3; }
+.dva3 { grid-area: dva3; }
+.chetyre3 { grid-area: chetyre3; }
+.stakan3 { grid-area: stakan3; }
+.vpered3,.nazad3,.logo3,.podpiss3,.pyat3,.odin3, .dva3, .tri3, .chetyre3, .stakan3 {
+border: 4px solid #FFFFFF;
+position: relative;
+overflow: hidden;}
+.podpiss3{
+border-left-style: none;
+border-top-style: none;
+border-right-style: none;
+border-bottom-style: none;
+}
+.pyat3{
+border-left-style: none;
+border-top-style: none;
+}
+.stakan3{
+border-left-style: none;
+border-top-style: none;
+border-bottom-style: none;
+}
+.odin3{
+border-left-style: none;
+border-right-style: none;
+border-bottom-style: none;
+}
+.dva3, .tri3{
+border-bottom-style: none;
+}
+.tri3{
+border-left-style: none;
+border-right-style: none;
+border-bottom-style: none;
+}
+.chetyre3{
+border-bottom-style: none;
+}
+.nazad3{
+  border-left-style: none;
+  border-bottom-style: none;
+  border-right-style: none;
+}
+.vpered3{
+  border-bottom-style: none;
+}
+.logo3{
+  border-left-style: none;
+  border-bottom-style: none;
+  border-right-style: none;
+}
+.nazad3 p{padding-left:30% ;font-size: 5vw;}
+.vpered3 p{padding-left:27% ;font-size: 5vw;}
+
+.chetyre3 img{width: 70%;margin-left: 14%;}
+.odin3 img, .dva3 img{width: 60%;margin-left: 20%;}
+.tri3 img{width: 50%;margin-left: 23%;}
+
+#trubochka1-on{margin-top: 9%;margin-left: 24%;}
+#trubochka2-on{margin-left: 20%;margin-top: 10%;}
+#trubochka3-on{margin-left: 25%;margin-top: 10%;}
+#trubochka4-on{margin-left: 20%;margin-top: 11%;}
+#trubochka1-on img, #trubochka2-on img, #trubochka3-on img,
+#trubochka4-on img {width: 48%;}
+
+.container4 {
+display: grid;
+ grid-template-columns: 45% 45% 0% 10%;
+ grid-template-rows: 7% 40% 35.7% 0% 8.4% 9%;
+ gap: 0px 0px;
+ grid-template-areas:
+   "pyat4 pyat4 . podpiss4"
+   "stakan4 stakan4 . podpiss4"
+   "obshiy obshiy . podpiss4"
+   "obshiy obshiy . podpiss4"
+   "obshiy obshiy . podpiss4"
+   "nazad4 vpered4 . logo4";
+}
+.vpered4 { grid-area: vpered4; }
+.nazad4 { grid-area: nazad4; }
+.logo4 { grid-area: logo4; }
+.podpiss4 { grid-area: podpiss4; }
+.pyat4 { grid-area: pyat4; }
+.stakan4 { grid-area: stakan4; }
+.obshiy { grid-area: obshiy; }
+
+.vpered4,.nazad4,.logo4,.podpiss4,.pyat4,.obshiy,.stakan4 {
+border: 4px solid #FFFFFF;
+position: relative;
+overflow: hidden;}
+.nazad4{
+  border-left-style: none;
+  border-bottom-style: none;
+  border-right-style: none;
+}
+.vpered4{
+  border-bottom-style: none;
+}
+.logo4{
+  border-left-style: none;
+  border-bottom-style: none;
+  border-right-style: none;
+}
+.podpiss4{
+border-left-style: none;
+border-top-style: none;
+border-right-style: none;
+border-bottom-style: none;
+}
+.stakan4{
+border-left-style: none;
+border-top-style: none;
+border-bottom-style: none;
+}
+.pyat4{
+border-left-style: none;
+border-top-style: none;
+}
+.obshiy{
+border-left-style: none;
+border-bottom-style: none;
+}
+.forma {
+    width: 45%;
+    height: 80px;
+    border: 5px solid #294CFF;
+    margin-top: -26%;
+    margin-left: 25%;}
+.nazvanye p {
+        font-size: 3vw;
+        margin-top: -30%;
+        margin-left: 26%;}
+.kassa p {margin-top: -45%;margin-left: 34%;font-size: 3.5vw;}
+.chislo p {margin-top: -57%;margin-left: 46%;font-size: 4vw;}
+.forma:hover{border: 5px solid #01FFF0;}
+.raz0, .raz, .raz2, .raz3, .raz4, .raz5{ font-size: 3.4vw;margin-left: 6%;margin-top: 8%;}
+.raz {margin-left: 11%;}
+.raz2 {margin-left: 11%;}
+.raz2 {margin-left: 20%;}
+.raz3{margin-left: 11%;white-space: nowrap;}
+.raz4 {margin-left: 18%;}
+.raz5 {margin-left: 13%;}
+
+.nazad4 p{padding-left:30% ;font-size: 5vw;}
+.vpered4 p{padding-left:27% ;font-size: 5vw;}
+.stak3 img{width: 60%;padding-top: 20%;margin-left: 19%;}
+.stak4 img{width: 59%;margin-top: -41%;margin-left: 16%;}
+.check img{width: 50%;margin-left: 24%;}
+
+.container5 {
+display: grid;
+grid-template-columns: 45% 45% 0% 10%;
+grid-template-rows: 8% 48% 3.8% 0% 35% 9.4%;
+gap: 0px 0px;
+grid-template-areas:
+"gotov gotov . podpis5"
+"stakitog stakitog . podpis5"
+"itog itog . podpis5"
+"itog itog . podpis5"
+"itog itog . podpis5"
+"zanovo zanovo . logo5";
+}
+.logo5 { grid-area: logo5; }
+.podpis5 { grid-area: podpis5; }
+.gotov { grid-area: gotov; }
+.stakitog { grid-area: stakitog; }
+.itog { grid-area: itog; }
+.zanovo { grid-area: zanovo; }
+
+.gotov,.stakanitog,.logo5,.podpis5,.itog,.zanovo {
+border: 4px solid #FFF;
+position: relative;
+overflow: hidden;}
+.creative {display: none;}
+.stakitog {
+border-bottom-style: none;
+border-left-style: none;
+border-top-style: none;
+border-right-style: none;
+}
+.gotov {
+border-right-style: none;
+border-left-style: none;
+border-top-style: none;
+}
+.itog {
+border-right-style: none;
+}
+.itog {
+border-bottom-style: none;
+border-left-style: none;
+}
+.creative {
+border-bottom-style: none;
+border-left-style: none;
+}
+.zanovo {
+border-bottom-style: none;
+border-left-style: none;
+border-right-style: none;
+}
+.logo5 {
+border-bottom-style: none;
+border-right-style: none;
+border-left-style: none;
+}
+.podpis5 {
+border-bottom-style: none;
+border-top-style: none;
+border-right-style: none;
+}
+.gotov p{font-size:4vw;margin-left: 30%;}
+.but5text{margin-left: 26%;font-size: 5vw;}
+.itogtext p{font-size: 3.5vw;line-height:33px;margin-top: %;}
+.itogtext {margin-top: 26%;}
+.Stak3 img{width: 60%;padding-top: 22%;margin-left: 19%;}
+.Stak4 img{width: 59%;margin-top: -48%;margin-left: 16%;}
+}
+@media only screen and (min-device-width: 361px) and (max-device-width: 414px) {
+  .container {
+    display: grid;
+    grid-template-columns: 45% 30% 16.1% 8.9%;
+    grid-template-rows: 32% 30.2% 29.1% 24.5% 1%;
+    gap: 0px 0px;
+    grid-template-areas:
+      "first first first fifth"
+      "third third third fifth"
+      "fourth fourth fourth fifth"
+      "sixth sixth sixth seventh"
+  }
+  .fifth { grid-area: fifth; }
+  .first { grid-area: first; }
+  .third { grid-area: third; }
+  .fourth { grid-area: fourth; }
+  .seventh { grid-area: seventh; }
+  .sixth { grid-area: sixth; }
+  .second{display: none;}
+  .first {grid-area: first;}
+  .first,.third,.fourth,.fifth,.sixth,.seventh {
+  border: 4px solid #FFFFFF;
+  position: relative;
+  overflow: hidden;
+  }
+
+  .third{
+  border-top-style: none;
+  border-bottom-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  }
+  .fourth{
+  border-bottom-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  }
+  .first{
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  }
+  .sixth{
+  border-bottom-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  }
+  .seventh{
+  border-bottom-style: none;
+  border-right-style: none;
+  }
+  .fifth{
+  border-bottom-style: none;
+  border-right-style: none;
+  border-top-style: none;
+  }
+  .podpis{font-size: 3.5vw;padding-left: 5%;}
+  .zagolovok{line-height: 75px; padding-top: 5%;font-size: 17vw;padding-left: 5%;}
+  .podpis2{font-size: 5vw;line-height:27px;padding-top: 7%;}
+  .podpis3{font-size: 4vw; margin-top: 800%;word-spacing: 10px;}
+  .but1, .but2, .but3, .but4{font-size: 6vw;}
+  .but1, .but2, .but3{border-bottom: 4px #FFF solid;}
+  .but1text{padding-left: 29%;}
+  .but2text{padding-left: 27%;}
+  .but3text{padding-left: 18%;}
+  .but3text{padding-left: 18%;}
+  .but4text{padding-left: 29%;z-index: 1;}
+  .buttoms{display: flex; flex-direction:column;}
+  .stak1 img{width: 70%;margin-top: 10%;margin-left: 19%;z-index: -2;}
+  .stak2 img{width: 67%;margin-top: -56%;margin-left: 17%;z-index: 0;}
+  .circle2 img, .circle3 img, .circle1 img{width: 19%;}
+  .circle1 img, .circle3 img, .circle2 img{padding-top: 23%;z-index: -1;}
+  .circle3 img{padding-top: 17%;padding-left: 13%;}
+  .circle2 img{padding-top: 24%;padding-left: 6%;}
+  #hide img, #hide2 img, #hide3 img{width: 92%;z-index: 3;}
+  .hidee, .hidde,.hiide {padding-left: 84%; padding-top: 20%;}
+
+  .container2 {
+    display: grid;
+    grid-template-columns: 45% 45% 0% 10%;
+    grid-template-rows: 8% 44% 37% 0% 35.6% 9%;
+    gap: 0px 0px;
+    grid-template-areas:
+      "pyat pyat . podpiss"
+      "stakan stakan . podpiss"
+      "odin dva . podpiss"
+      ". . . podpiss"
+      "tri chetyre . podpiss"
+      "nazad vpered . logo";
+  }
+  .vpered { grid-area: vpered; }
+  .nazad { grid-area: nazad; }
+  .logo { grid-area: logo; }
+  .podpiss { grid-area: podpiss; }
+  .pyat { grid-area: pyat; }
+  .odin { grid-area: odin; }
+  .tri { grid-area: tri; }
+  .dva { grid-area: dva; }
+  .chetyre { grid-area: chetyre; }
+  .stakan { grid-area: stakan; }
+  .vpered,.nazad,.logo,.podpiss,.pyat,.odin, .dva, .tri, .chetyre, .stakan {
+  border: 4px solid #FFFFFF;
+  position: relative;
+  overflow: hidden;}
+  .podpiss{
+  border-left-style: none;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  }
+  .pyat{
+  border-left-style: none;
+  border-top-style: none;
+  }
+  .stakan{
+  border-left-style: none;
+  border-top-style: none;
+  border-bottom-style: none;
+  }
+  .odin{
+  border-left-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  }
+  .dva, .tri{
+  border-bottom-style: none;
+  }
+  .tri{
+  border-left-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  }
+  .chetyre{
+  border-bottom-style: none;
+  }
+  .nazad{
+    border-left-style: none;
+    border-bottom-style: none;
+    border-right-style: none;
+  }
+  .vpered{
+    border-bottom-style: none;
+  }
+  .logo{
+    border-left-style: none;
+    border-bottom-style: none;
+    border-right-style: none;
+  }
+  .podpiss{font-size: 3vw; margin-top: 60%;}
+  .pyatpod p{font-size:6vw;}
+
+  .odin img, .dva img{width: 62%; padding-left: 17%;margin-top: -17%;}
+  .tri img{width: 62%; padding-left: 17%;margin-top: -17%;}
+  .chetyre img{width: 62%; padding-left: 17%;margin-top: -17%;}
+  .dva img{width: 67%;}
+  .odin p{padding-top: 30%;font-size: 6vw;}
+  .dva p {padding-top: 30%;font-size: 6vw;}
+  .chetyre p{padding-top: 28%;font-size: 6vw;}
+  .tri p {padding-top: 25%;font-size: 6vw;}
+  .nazad p{padding-left:25% ;font-size: 7vw;}
+  .vpered p{padding-left:19% ;font-size: 7vw;}
+
+  .stak3 img{width: 78%;padding-top: 25%;margin-left: 13%;}
+  .stak4 img{width: 78%;margin-top: -54%;margin-left: 8%;}
+  #tecila-on, #balsam-on, #sambuka-on, #sake-on {margin-top: 38%;margin-left: 14%;}
+  #tecila-on img, #balsam-on img, #sambuka-on img, #sake-on img {width: 100%; z-index: 1;}
+
+  .container3 {
+    display: grid;
+    grid-template-columns: 45% 45% 0% 10%;
+    grid-template-rows: 11% 70% 58.5% 0% 58.5% 12.3%;
+    gap: 0px 0px;
+    grid-template-areas:
+      "pyat3 pyat3 . podpiss3"
+      "stakan3 stakan3 . podpiss3"
+      "odin3 dva3 . podpiss3"
+      ". . . podpiss3"
+      "tri3 chetyre3 . podpiss3"
+      "nazad3 vpered3 . logo3";
+  }
+  .vpered3 { grid-area: vpered3; }
+  .nazad3 { grid-area: nazad3; }
+  .logo3 { grid-area: logo3; }
+  .podpiss3 { grid-area: podpiss3; }
+  .pyat3 { grid-area: pyat3; }
+  .odin3 { grid-area: odin3; }
+  .tri3 { grid-area: tri3; }
+  .dva3 { grid-area: dva3; }
+  .chetyre3 { grid-area: chetyre3; }
+  .stakan3 { grid-area: stakan3; }
+  .vpered3,.nazad3,.logo3,.podpiss3,.pyat3,.odin3, .dva3, .tri3, .chetyre3, .stakan3 {
+  border: 4px solid #FFFFFF;
+  position: relative;
+  overflow: hidden;}
+  .podpiss3{
+  border-left-style: none;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  }
+  .pyat3{
+  border-left-style: none;
+  border-top-style: none;
+  }
+  .stakan3{
+  border-left-style: none;
+  border-top-style: none;
+  border-bottom-style: none;
+  }
+  .odin3{
+  border-left-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  }
+  .dva3, .tri3{
+  border-bottom-style: none;
+  }
+  .tri3{
+  border-left-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  }
+  .chetyre3{
+  border-bottom-style: none;
+  }
+  .nazad3{
+    border-left-style: none;
+    border-bottom-style: none;
+    border-right-style: none;
+  }
+  .vpered3{
+    border-bottom-style: none;
+  }
+  .logo3{
+    border-left-style: none;
+    border-bottom-style: none;
+    border-right-style: none;
+  }
+  .nazad3 p{padding-left:25% ;font-size: 7vw;}
+  .vpered3 p{padding-left:19% ;font-size: 7vw;}
+
+  .chetyre3 img{width: 120%;margin-left: 0%;}
+  .odin3 img, .dva3 img{width: 99%;margin-left: 8%;}
+  .tri3 img{width: 85%;margin-left: 7%;}
+
+  #trubochka1-on{margin-top: 11%;margin-left: 24%;}
+  #trubochka2-on{margin-left: 20%;margin-top: 12%;}
+  #trubochka3-on{margin-left: 25%;margin-top: 12%;width: 60%;}
+  #trubochka4-on{margin-left: 16%;margin-top: 15%;width: 80%;}
+  #trubochka1-on img, #trubochka2-on img, #trubochka3-on img,
+  #trubochka4-on img {width: 48%;}
+  .podpiss3{font-size: 3vw; margin-top: 60%;}
+  .pyatpod p{font-size:6vw;}
+  .stak3 img{width: 78%;padding-top: 25%;margin-left: 13%;}
+  .stak4 img{width: 78%;margin-top: -54%;margin-left: 8%;}
+
+  .container4 {
+  display: grid;
+   grid-template-columns: 45% 45% 0% 10%;
+   grid-template-rows: 6% 38% 57% 0% 8.4% 7%;
+   gap: 0px 0px;
+   grid-template-areas:
+     "pyat4 pyat4 . podpiss4"
+     "stakan4 stakan4 . podpiss4"
+     "obshiy obshiy . podpiss4"
+     "obshiy obshiy . podpiss4"
+     "obshiy obshiy . podpiss4"
+     "nazad4 vpered4 . logo4";
+  }
+  .vpered4 { grid-area: vpered4; }
+  .nazad4 { grid-area: nazad4; }
+  .logo4 { grid-area: logo4; }
+  .podpiss4 { grid-area: podpiss4; }
+  .pyat4 { grid-area: pyat4; }
+  .stakan4 { grid-area: stakan4; }
+  .obshiy { grid-area: obshiy; }
+
+  .vpered4,.nazad4,.logo4,.podpiss4,.pyat4,.obshiy,.stakan4 {
+  border: 4px solid #FFFFFF;
+  position: relative;
+  overflow: hidden;}
+  .nazad4{
+    border-left-style: none;
+    border-bottom-style: none;
+    border-right-style: none;
+  }
+  .vpered4{
+    border-bottom-style: none;
+  }
+  .logo4{
+    border-left-style: none;
+    border-bottom-style: none;
+    border-right-style: none;
+  }
+  .podpiss4{
+  border-left-style: none;
+  border-top-style: none;
+  border-right-style: none;
+  border-bottom-style: none;
+  }
+  .stakan4{
+  border-left-style: none;
+  border-top-style: none;
+  border-bottom-style: none;
+  }
+  .pyat4{
+  border-left-style: none;
+  border-top-style: none;
+  }
+  .obshiy{
+  border-left-style: none;
+  border-bottom-style: none;
+  }
+  .forma {
+      width: 65%;
+      height: 80px;
+      border: 5px solid #294CFF;
+      margin-top: -42%;
+      margin-left: 16%;}
+  .nazvanye p {
+          font-size: 5vw;
+          margin-top: -49%;
+          margin-left: 16%;}
+  .kassa p {margin-top: -70%;margin-left: 27%;font-size: 5vw;}
+  .chislo p {margin-top: -90%;margin-left: 45%;font-size: 6vw;}
+  .forma:hover{border: 5px solid #01FFF0;}
+  .raz0, .raz, .raz2, .raz3, .raz4, .raz5{ font-size: 5vw;margin-left: 6%;margin-top: 13%;}
+  .raz {margin-left: 11%;}
+  .raz2 {margin-left: 11%;}
+  .raz2 {margin-left: 20%;}
+  .raz3{margin-left: 11%;white-space: nowrap;}
+  .raz4 {margin-left: 18%;}
+  .raz5 {margin-left: 13%;}
+
+  .nazad4 p{padding-left:25% ;font-size: 7vw;}
+  .vpered4 p{padding-left:19% ;font-size: 7vw;}
+  .pyatpod p{font-size:5vw;}
+  .check img{width: 80%;margin-left: 10%;}
+
+  .container5 {
+  display: grid;
+  grid-template-columns: 45% 45% 0% 10%;
+  grid-template-rows: 6% 38% 3.8% 0% 49.6% 7%;
+  gap: 0px 0px;
+  grid-template-areas:
+  "gotov gotov . podpis5"
+  "stakitog stakitog . podpis5"
+  "itog itog . podpis5"
+  "itog itog . podpis5"
+  "itog itog . podpis5"
+  "zanovo zanovo . logo5";
+  }
+  .logo5 { grid-area: logo5; }
+  .podpis5 { grid-area: podpis5; }
+  .gotov { grid-area: gotov; }
+  .stakitog { grid-area: stakitog; }
+  .itog { grid-area: itog; }
+  .zanovo { grid-area: zanovo; }
+
+  .gotov,.stakanitog,.logo5,.podpis5,.itog,.zanovo {
+  border: 4px solid #FFF;
+  position: relative;
+  overflow: hidden;}
+  .creative {display: none;}
+  .stakitog {
+  border-bottom-style: none;
+  border-left-style: none;
+  border-top-style: none;
+  border-right-style: none;
+  }
+  .gotov {
+  border-right-style: none;
+  border-left-style: none;
+  border-top-style: none;
+  }
+  .itog {
+  border-right-style: none;
+  }
+  .itog {
+  border-bottom-style: none;
+  border-left-style: none;
+  }
+  .creative {
+  border-bottom-style: none;
+  border-left-style: none;
+  }
+  .zanovo {
+  border-bottom-style: none;
+  border-left-style: none;
+  border-right-style: none;
+  }
+  .logo5 {
+  border-bottom-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  }
+  .podpis5 {
+  border-bottom-style: none;
+  border-top-style: none;
+  border-right-style: none;
+  }
+  .gotov p{font-size:6vw;margin-left: 21%;}
+  .but5text{margin-left: 26%;font-size: 5vw;}
+  .itogtext p{font-size: 5vw;line-height:28px;margin-top: %;}
+  .itogtext {margin-top: 60%;}
+  .Stak3 img{width: 78%;padding-top: 25%;margin-left: 13%;}
+  .Stak4 img{width: 78%;margin-top: -63%;margin-left: 8%;}
+
+}
